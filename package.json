@@ -1,0 +1,19 @@
+{
+	"author": "Joshua Gillman",
+  "description": "Timestamp microservice for freecodecamp exercise.",
+  "keywords": ["freecodecamp"],
+	"name": "fcc-timestamp-nodate",
+  "version": "0.0.1",
+  "license": "MIT",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.12.4",
+		"cors": "^2.8.0"
+	},
+	"engines": {
+		"node": "4.4.5"
+	}
+}
